@@ -9,3 +9,4 @@
 9- git status
 10 git branch
 11- git branch -M newBranch
+12- git log
